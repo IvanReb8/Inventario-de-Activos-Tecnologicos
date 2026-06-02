@@ -17,5 +17,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class App {
   /** Título visible de la aplicación. */
-  protected readonly title = signal('products-frontend');
+  protected readonly title = signal('catalogs-frontend');
 }
