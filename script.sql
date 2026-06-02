@@ -52,4 +52,3 @@ VALUES
 
 -- Activo 5: Monitor obsoleto (Para validar bloqueo estricto de Baja/Disposed)
 ('e5f67a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b', 'MON-2026-002', 'SN-MON-0011Z', 'HP ProDisplay P22', 'DISPOSED', 120.00, CURRENT_TIMESTAMP, 2);
-Usa el código con precaución.💡 Recomendación para el día del examen:Puedes guardar este contenido en un archivo llamado data.sql dentro de la ruta src/main/resources/ de tu proyecto de Spring Boot. Si en tu archivo application.properties tienes la propiedad spring.jpa.hibernate.ddl-auto=update, Hibernate mantendrá los datos estables y listos en tu base de datos cada vez que levantes el servidor.Con esto tienes cubierto el 100% de los datos de prueba automatizados en la base de datos. ¿Deseas ayuda con las instrucciones para empaquetar el proyecto o prefieres revisar algún punto final?
